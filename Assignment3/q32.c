@@ -1,4 +1,3 @@
-Q2  
 #include <mpi.h>  
 #include <stdio.h>  
   
