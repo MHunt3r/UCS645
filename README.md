@@ -19,7 +19,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd UCS645Assignments
+  cd UCS645
 ```
 
 Install compiler
