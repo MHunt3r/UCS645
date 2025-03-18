@@ -13,7 +13,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/MHunt3r/UCS645Assignments.git
+  git clone https://github.com/MHunt3r/UCS645.git
 ```
 
 Go to the project directory
